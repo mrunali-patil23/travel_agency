@@ -1,0 +1,6 @@
+{
+  "name": "Around D World - Travel & Corporate Events",
+  "description": "Bespoke corporate retreats, executive summits, and luxury vacation journeys across 68+ destinations by Around D World, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
